@@ -1,0 +1,3 @@
+[submodule "games/fzero-x"]
+	path = games/fzero-x
+	url = https://github.com/Allakazan/f-zero-x-recomp-online
